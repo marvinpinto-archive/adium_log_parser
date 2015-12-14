@@ -1,5 +1,7 @@
 ## About
 
+![unmaintained](http://img.shields.io/badge/status-unmaintained-red.png)
+
 These little scripts parse through Adium chat logs and format them into nice
 little plaintext files. Given that I'll only need to do this *once*, I have put
 zero effort into doing anything elegant here.
